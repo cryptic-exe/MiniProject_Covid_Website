@@ -1,0 +1,10 @@
+.countrywise, .global{
+  display: flex;
+  flex-direction: row;
+}
+.country{
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 20%;
+  width: auto;
+}
